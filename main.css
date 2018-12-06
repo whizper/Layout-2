@@ -1,0 +1,50 @@
+/* Centered layout */
+
+body {
+	font-size: 24px;
+	font-family: 'Merriweather', serif;
+}
+main {
+	width: 80%;
+	margin: 0 auto;
+	background-color: #F8F0FB;	
+
+}
+header {
+	border: 3px solid black;
+	width: 99,5%;
+	background-color: #6D6B77;
+
+}
+nav > ul > li {
+	list-style: none;
+	display: inline;
+	padding: 0 20px;
+
+}
+nav {
+	width: 100%;
+
+}
+a >li {
+	text-decoration: none;
+}
+li > a:hover {
+	color: #38C9FF;
+
+}
+section {
+	padding: 10px;
+	height: 75vh;
+
+
+}
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 45px;
+
+}
+p {
+	font-size: 1em;
+
+}
